@@ -1,0 +1,17 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "Um jogo semelhante ao Blackjack",
+  "main": "desafio.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafansilva/blackjack.git"
+  },
+  "author": "Rafael N. Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafansilva/blackjack/issues"
+  },
+  "homepage": "https://github.com/rafansilva/blackjack#readme"
+}
